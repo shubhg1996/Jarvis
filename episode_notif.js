@@ -1,8 +1,8 @@
 const builder = require('botbuilder');
 
 var connector = new builder.ChatConnector({
-    appId: "4887dfd6-0673-4f6b-bc72-f6364986ecee",
-    appPassword: "TGI5140)$wtdwhppIQKY1;#"
+    appId: "",
+    appPassword: ""
 });
 
 var bot = new builder.UniversalBot(connector);
