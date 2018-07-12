@@ -1,3 +1,5 @@
+#https://github.com/ogniK5377/Easy-KissAnime-API
+
 """Desktop related KissAnime usage."""
 import sqlite3
 import urllib
